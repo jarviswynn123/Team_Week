@@ -5,13 +5,37 @@ DE101 Bootcamp- Team Week Project # 1
 Alex Wallace, Jarvis Wynn, Nikisha Banks
 
 ## Technologies Used: 
-Git hub, Visual Studio Code
+- jupyterlab
+- pandas
+- pandas-profiling
+- ipywidgets
+- matplotlib
+- numpy
+
 
 ## Languages and tools used: 
 Python, Pandas, Matplotlib
 
+## Datasets Used:
+1. music_topics.csv
+2. spotify.csv
+3. top_10000_1960-now.csv
+4. events_1960_2021_UTF8.csv
+
 ## Description:
-The purpose of this project is to show a visual representation of various datasets that show music trends over time.
+The purpose of this project is to show a visual representation of various datasets that show music trends over time. We analyzed and manipulated multiple datasets dealing with various topics such as:
+- The top 10000 songs on spotify from 1960 until the present
+- The Billboard top 100 songs per week from its inception in 1958 until 2021
+- Major world events from 1960-2021
+- Songs and their primary topic from 1950-2019
+
+Alex took the music_topics.csv, transformed and cleaned the data, and used the music_topics_cleaned.csv to create various pie charts to analyze the difference of topics of songs throughout the years. Below are two pie charts, one depicting the number of songs per topic over the whole dataset and the other depicting the number of pop songs per topic. These charts can be found in alex_present.ipynb:
+
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/Songs_by_topic.png)
+
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_songs_by_topic.png)
+
+
 
 ## Setup/Installation Requirements:
 To run the code in this project:
