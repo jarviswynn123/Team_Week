@@ -35,6 +35,15 @@ Alex took the music_topics.csv, transformed and cleaned the data, and used the m
 
 ![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_songs_by_topic.png)
 
+Alex used these pie charts as control variables, and analyzed the difference in topics of pop songs in each decade. Below are the pie charts for those decades. If you would like to look at the pie charts of the data and possible reasons as to the difference in topics, refer to alex_present.ipynb:
+
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_50s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_60s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_70s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_80s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_90s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_00s.png)
+![Pie](https://github.com/jarviswynn123/Team_Week/blob/main/images/pop_10s.png)
 
 
 ## Setup/Installation Requirements:
